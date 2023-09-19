@@ -1,5 +1,5 @@
 {
-  "name": "satogochi",
+  "name": "satogotchi",
   "version": "0.0.1",
   "description": "A gamified digital pet Bitcoin wallet/node UI",
   "main": "main.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrRGnome/satogochi.git"
+    "url": "git+https://github.com/MrRGnome/satogotchi.git"
   },
   "keywords": [
     "Bitcoin",
@@ -18,9 +18,9 @@
   "author": "The Bitcoin Discord Server",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/MrRGnome/satogochi/issues"
+    "url": "https://github.com/MrRGnome/satogotchi/issues"
   },
-  "homepage": "https://github.com/MrRGnome/satogochi#readme",
+  "homepage": "https://github.com/MrRGnome/satogotchi#readme",
   "devDependencies": {
     "electron": "^26.2.1"
   }
