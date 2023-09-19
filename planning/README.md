@@ -1,5 +1,8 @@
-# Satogochi Architecture and Design Planning
+# Satogotchi Architecture and Design Planning
 To participate please join us at https://discord.gg/bitcoin-discord-782749290219962370
+
+# Scope and goals
+Create a game to educate newcomers on bitcoin; how it benefits them, how it works, how to use it, how to avoid shitcoins and not get scammed. The game should be child-friendly and geared for parents to play with their kids to teach them about bitcoin.
 
 # Game Flow Proposal
 Satogotchi (here-on Sato) is a simple digital pet. They begin life as a newly hatched egg. They begin life as a baby digital pet. They must be fed random data to grow, their favourite is dice rolls. Once they eat 256 bits of random data Sato grows. As Sato loves the user, and gives them a friendship bracelet in the form of a file and shared secret word selected by the user so the user and Sato will always recognize each other. Sato instructs the users on secret and safe places the user might store the backup and of the consequences of loss, and from this moment forward will require the user input their "friendship bracelet" when doing any sensitive actions.
@@ -15,3 +18,6 @@ Describe possible satogotchi interactions and associated Bitcoin API calls. This
 
     }
 ```
+
+# Visual representations:
+Aspects of bitcoin should be represented visually in the game. For example, a mailman delivering mail can represent recieving new blocks.
