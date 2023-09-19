@@ -1,0 +1,5 @@
+class PAW {
+    constructor(pawJson) {
+
+    }
+}
