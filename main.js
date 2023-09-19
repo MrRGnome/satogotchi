@@ -7,4 +7,4 @@ app.whenReady().then(() => {
     });
     
     win.loadFile('game.html');
-  })
+  });
