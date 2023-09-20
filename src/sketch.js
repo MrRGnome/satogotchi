@@ -21,7 +21,7 @@ function setup() {
 const interval = 250; //milliseconds
 let last = 0;
 
-const candies = [];
+let candies = [];
 
 function draw() {
 	const frameTime = millis();
@@ -41,6 +41,8 @@ function draw() {
 		pop();
 		candy.y += ((1/candy.width) * deltaTime)*5;
 	}
+	
+	candies = candies.filter(x => x.y <= canvasHeight);
 }
 
 function whiten(image) {
